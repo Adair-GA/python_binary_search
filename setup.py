@@ -16,7 +16,7 @@ setup(
     author='Sheng Zhong',
     author_email='zhsh@umich.edu',
     # typing
-    python_requires='>=3.5.*',
+    python_requires='>=3.5',
     packages=find_packages(),
     test_suite='pytest',
     tests_require=[
